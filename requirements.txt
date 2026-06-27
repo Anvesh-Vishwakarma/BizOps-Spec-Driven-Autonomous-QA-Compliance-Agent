@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+chainlit
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+e2b
+e2b-code-interpreter
+pdfplumber
+pytest
+python-docx
+python-multipart
+httpx
+pydantic
+python-dotenv
+aiofiles
