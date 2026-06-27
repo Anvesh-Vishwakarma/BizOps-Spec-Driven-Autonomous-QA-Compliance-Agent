@@ -84,5 +84,3 @@ This project includes a `Dockerfile` designed for easy, free deployment on [Hugg
 5. Add your `E2B_API_KEY` and `GEMINI_API_KEY` as Secrets.
 6. The Space will automatically build the image and deploy both the backend and frontend simultaneously.
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
