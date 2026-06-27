@@ -2,6 +2,8 @@
 
 An autonomous, multi-agent AI workforce designed to ingest highly structured company software requirement documents, automatically generate `pytest` test cases, physically execute the code in an isolated E2B cloud sandbox, and verify the execution results against legal and compliance standards.
 
+**App link** - https://huggingface.co/spaces/Anvesh-21/Bizops-qa-agent
+
 ## 🚀 Features
 
 - **Automated Specification Parsing**: Upload standard PDF or DOCX requirement documents and let the AI extract precise structured rules and logic.
